@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mandar Waghe
-- 👀 Works as a software developer at udgama
-- 🌱 I’m currently learning AWS services
-- 💞️ I’m looking to collaborate on slack
+- 👀 Works as a Fullstack developer at udgama
+- 🌱 I'm currently working in Ruby on Rails.
+- 💞️ I’m looking to collaborate on MSTeams
 - 📫 How to reach me waghemandar1712@gmail.com
 
 <!---
